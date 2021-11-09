@@ -1,2 +1,3 @@
 # NEWUOA-Matlab-version
-Working with Sanpeng Zheng and Zhanpeng Wang
+Pengcheng Xie, LSEC, AMSS
+xpc@lsec.cc.ac.cn
